@@ -6,5 +6,5 @@ An application to get your access bar in a simple click, you only need to enter 
 
 Let's automate everyday resources.
 
-https://user-images.githubusercontent.com/78099176/170505727-ee90fda9-579b-4d60-a407-d6e1db8a92ec.mp4
+https://user-images.githubusercontent.com/78099176/170506119-1cf6ce2c-b3ee-44a7-a0f5-0ad77cd201c1.mp4
 
